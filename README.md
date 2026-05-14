@@ -14,3 +14,4 @@ As part of the project, I also developed a character selection system, as well a
 
 https://github.com/user-attachments/assets/0cb80cc1-0166-42ba-9d88-3fabf6fd600f
 
+Over the summer of 2023, I conceptualized a game called "PROJECT MARV1N." Envisioned as a top-down isometric story game, it unfolds within the confines of an advanced spaceship governed by machines. For this project, I meticulously developed a fully-fledged character complete with a comprehensive set of mechanics and animations. Additionally, I designed an intricate AI system incorporating various mechanics to imbue it with a sense of vitality, contributing to the immersive nature of the game.
